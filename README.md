@@ -23,7 +23,6 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 
 ## Ferramentas
 >coisas aleatórias seguras e sem vírus. alguns falsos-positivos mas dá nada
-
 ### Variados
 - [AdAway](https://adaway.org/) - Bloqueador de anúncios pra celular que funciona no sistema inteiro. Funciona melhor com root, mas tem pra normal também.
 - [jDownloader](http://jdownloader.org/jdownloader2) - Gerenciador de downloads (não é um acelerador) útil para baixar várias coisas ao mesmo tempo. Ele consegue atravessar os limites de download diários do Mega, por exemplo, e baixar basicamente qualquer elemento de um site.
@@ -34,13 +33,11 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [MetaStream](https://getmetastream.com/) - Extensão legal pra assistir coisas com amigos pelo discord. Suporta praticamente qualquer coisa
 - [ProtonVPN](https://protonvpn.com/) - VPN grátis e boa, faz o que precisa fazer. O plano pago é meio carinho comparado a outras VPNs mas a gratuita é ótima.
 - [rufus](https://rufus.ie/pt_BR/) - Útil pra criar pendrives com Windows/Linux para trocar ou reparar o sistema se você fizer caquinha.
-
 ### Cracks/Ativadores
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) - Ferramenta ótima pra ativar o Windows e Office. Baixe e abra a versão All-in-One.
 - [KMSpico](https://mega.nz/#F!DiJBwSKQ!QmdtN1HD8v8xQmkBI8gADg) - Alternativa ao MAS. Meio duvidoso, hoje em dia não recomendo muito mas usa se o MAS der pau.
 - [AMTEmu](https://mega.nz/#F!Wug3HarT!Vh56AkrfxbYCGJ9Qal2I1Q) - Patcher universal dos programas da Adobe (CC 2014 a CC 2017).
 - [GenP](https://drive.google.com/drive/folders/12smHql52DP-uv61E5tc8EKZUjhq6X2rW) - Patcher dos programas da Adobe CC 2019.
-
 ### Microsoft e Adobe
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows-ISO-Downloader.exe) - Gerenciador de downloads das imagens intocadas do Windows e Office. Você ainda vai precisar de um crack.
 - [TechBenz](https://tb.rg-adguard.net/public.php) - Similar ao acima, porém é um site e não um programa.
