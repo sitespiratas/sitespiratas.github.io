@@ -63,7 +63,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). Excelente para séries e filmes.
 ### Cuidado com torrents falsos.
 Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. Evite a todo custo.
-![Torrents Falsos](torrents_falsos.jpg)
+![Torrents Falsos](torrents_falsos.png)
 - [1337x](https://1337x.to/) - Site de torrent com todo tipo de coisa similar ao TPB, porém sem garantia de que o link é seguro (deixe o usuário 'igggamescom' em último caso, porém viável). Bem mais confiável que o TPB. Uso ele pra qualquer coisa e nunca tive problema, mas existem se você sair baixando tudo.
   - No TPB e no 1337x qualquer um pode upar qualquer coisa, podendo ser vírus. O TPB possui um sistema de reputação (o das caveirinhas da print) e muito lixo, enquanto o 1337x no geral é muito mais limpo e confiável.
 - [IGG-Games](https://igg-games.com/) e [sua versão torrent](https://pcgamestorrents.com/) - Última alternativa, se não achar algum jogo esse site o terá. O IGG tem uma fama de se envolver com polêmicas, como o fechamento de um site concorrente (o GOD mencionado anteriormente), injeção das próprias DRMs e vírus em seus downloads e anúncios abusivos em seu site. Isso também se aplica para os perfis 'igggamescom' no 1337x e 'dauphong' no TPB. Nem todos os downloads são inseguros, mas já é o suficiente para evitá-los. Se seu download possuir um arquivo .dll com o nome do site deles, utilize a ferramenta [fuckIGG](https://github.com/Pheeeeenom/fuckigg) para remover a dll com segurança.
