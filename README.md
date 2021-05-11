@@ -1,6 +1,6 @@
-## sites**piratas**
+## sitespiratas
 # Lista de Sites de Download v1.0
->Lista de sites/ferramentas piratas para o download de diversas coisas
+>Lista de sites/ferramentas piratas para o download de diversas coisas. Meu discord danilo#8677
 
 ## Sumário
 - [Ferramentas](#ferramentas)
