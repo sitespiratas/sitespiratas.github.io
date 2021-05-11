@@ -66,13 +66,12 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [RarBG](https://rarbg.to/index37.php) - Site de torrent que upa os próprios torrents, tem todo tipo de coisa. Confiável se estiver baixando do usuario Scene (eles mesmos).
 - [GamesTorrents](https://www.gamestorrents.io/) - Site em espanhol de torrents de jogos.
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus.
-- [Gerador de Contas de Minecraft](https://fastalts.com/free-minecraft-generator/) - Não testei ainda e não me responsabilizo se o seu PC explodir
-- [Outro gerador](https://mcleaks.net/) - Funciona de maneira diferente, também não testei ainda
+- [Gerador de Contas de Minecraft](https://mcleaks.net/) - não testei esse treco e se seu computador explodir a culpa é sua
 - [Google Cloud Engine](https://www.youtube.com/watch?v=KDYGMS0Z3Rg) - Não é bem um jogo, é um guia de como fazer um server de Minecraft 24 horas sem lag nenhum pelo serviço de computação na nuvem da Google. Você vai precisar de um tempinho e vontade de aprender minimamente a mexer com Linux (mas sem instalar nada). Funciona por 3 meses antes que você tenha que repetir o processo em uma conta nova.
-- [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). Excelente para séries e filmes.
 ### Cuidado com torrents falsos.
 Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. Evite a todo custo.
 ![Torrents Falsos](torrents_falsos.png)
+- [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). Excelente para séries e filmes.
 - [1337x](https://1337x.to/) - Site de torrent com todo tipo de coisa similar ao TPB, porém sem garantia de que o link é seguro (deixe o usuário 'igggamescom' em último caso, porém viável). Bem mais confiável que o TPB. Uso ele pra qualquer coisa e nunca tive problema, mas existem se você sair baixando tudo.
   - No TPB e no 1337x qualquer um pode upar qualquer coisa, podendo ser vírus. O TPB possui um sistema de reputação (o das caveirinhas da print) e muito lixo, enquanto o 1337x no geral é muito mais limpo e confiável.
 - [IGG-Games](https://igg-games.com/) e [sua versão torrent](https://pcgamestorrents.com/) - Última alternativa, se não achar algum jogo esse site o terá. O IGG tem uma fama de se envolver com polêmicas, como o fechamento de um site concorrente (o GOD mencionado anteriormente), injeção das próprias DRMs e vírus em seus downloads e anúncios abusivos em seu site. Isso também se aplica para os perfis 'igggamescom' no 1337x e 'dauphong' no TPB. Nem todos os downloads são inseguros, mas já é o suficiente para evitá-los. Se seu download possuir um arquivo .dll com o nome do site deles, utilize a ferramenta [fuckIGG](https://github.com/Pheeeeenom/fuckigg) para remover a dll com segurança.
