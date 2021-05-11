@@ -1,5 +1,5 @@
 # Lista de Sites de Download v2.0
->Lista de sites/ferramentas piratas para o download de diversas coisas. Meu discord danilo#8677
+>Lista de sites/ferramentas piratas para o download de diversas coisas. discord danilo#8677
 
 # INTRODUÇÃO
 Antes de qualquer coisa, pelo amor de deus baixa o [uBlock Origin](https://github.com/gorhill/uBlock). Ele é uma extensão de navegador que bloqueia anúncios muito bem melhorado, mas serve também de anti-rastreador e anti-malware. Ele faz o trabalho bem melhor que outros bloqueadores e já me safei de muita coisa só por usar ele.
@@ -19,7 +19,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [Séries e Filmes](#séries-e-filmes)
 - [Jogos](#jogos)
 - [ROMS](#roms)
-- [Links Úteis](#links-úteis)
+- [De onde eu tirei tudo isso](#de-onde-eu-tirei-tudo-isso)
 
 ## Ferramentas
 >coisas aleatórias seguras e sem vírus. alguns falsos-positivos mas dá nada
@@ -55,6 +55,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [AnimesUp](https://animesup.net/) - Site de anime surpreendentemente bem feito, tem até botãozinho de pular abertura. Dá pra fazer download
 - [SuperGratis](https://supergratis.biz) - Site de anime que o Orochi usava antigamente
 - [BRanimes](https://www.branimes.com) - Outro site de anime
+- [AnimesFalse](https://animesfalse.net/) - mais anime eeeeeba
 - [Vizer](https://vizer.tv/) - Bom site para séries e filmes.
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
 
@@ -67,7 +68,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [Rutor](http://rutor.info/) - Tracker russo com todo tipo de coisa e quase nunca tem vírus.
 - [Gerador de Contas de Minecraft](https://fastalts.com/free-minecraft-generator/) - Não testei ainda e não me responsabilizo se o seu PC explodir
 - [Outro gerador](https://mcleaks.net/) - Funciona de maneira diferente, também não testei ainda
-- [Google Cloud Engine](https://www.youtube.com/watch?v=KDYGMS0Z3Rg) - N]ao é bem um jogo, é um guia de como fazer um server de Minecraft 24 horas sem lag nenhum pelo serviço de computação na nuvem da Google. Você vai precisar de um tempinho e vontade de aprender minimamente a mexer com Linux (mas sem instalar nada). Funciona por 3 meses antes que você tenha que repetir o processo em uma conta nova.
+- [Google Cloud Engine](https://www.youtube.com/watch?v=KDYGMS0Z3Rg) - Não é bem um jogo, é um guia de como fazer um server de Minecraft 24 horas sem lag nenhum pelo serviço de computação na nuvem da Google. Você vai precisar de um tempinho e vontade de aprender minimamente a mexer com Linux (mas sem instalar nada). Funciona por 3 meses antes que você tenha que repetir o processo em uma conta nova.
 - [ThePirateBay](https://thepiratebay.org/) - Todo tipo de torrent, só baixar de usuarios com caveirinhas verdes ou roxas (deixe o usuário 'dauphong' em último caso, porém viável). Excelente para séries e filmes.
 ### Cuidado com torrents falsos.
 Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. Evite a todo custo.
@@ -84,9 +85,8 @@ Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. 
 - [DownloadRoms](https://www.downloadroms.io/) - Mais um site de ROMS, usei algumas vezes e tinha algumas páginas com conteúdo duvidoso mas não peguei vírus.
 - [Roms Antigas](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Site com um monte de roms de consoles antigos.
 
-## Links Úteis
->fontes dessa besteirada, tudo em inglês
-- [CrackWatch](https://crackwatch.com/) - Site para checar se algum jogo já foi crackeado. Útil para saber se aquele tutorial do JoãozinhoGameplays de como crackar o GTA VI é fake.
+## De onde eu tirei tudo isso
+>fontes de 80% besteirada, em inglês.
 - [r/Piracy Megathread](https://www.reddit.com/r/piracy/wiki/megathread) - Wiki do subreddit de pirataria, com várias ferramentas e links úteis.
 - [Begginers Guide to CrackWatch](https://www.reddit.com/r/CrackWatch/comments/7gyt85/crack_watch_beginners_guide_to_crack_watch/) - Informações sobre o download de jogos piratas, links e precauções.
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - Similar à esse documento, mas em inglês e com muito mais informação.
