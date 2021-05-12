@@ -38,7 +38,6 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [KMSpico](https://mega.nz/#F!DiJBwSKQ!QmdtN1HD8v8xQmkBI8gADg) - Alternativa ao MAS. Meio duvidoso, hoje em dia não recomendo muito mas usa se o MAS der pau.
 - [AMTEmu](https://mega.nz/#F!Wug3HarT!Vh56AkrfxbYCGJ9Qal2I1Q) - Patcher universal dos programas da Adobe (CC 2014 a CC 2017).
 - [GenP](https://drive.google.com/drive/folders/12smHql52DP-uv61E5tc8EKZUjhq6X2rW) - Patcher dos programas da Adobe CC 2019.
-
 ### Microsoft e Adobe
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows-ISO-Downloader.exe) - Gerenciador de downloads das imagens intocadas do Windows e Office. Você ainda vai precisar de um crack.
 - [TechBenz](https://tb.rg-adguard.net/public.php) - Similar ao acima, porém é um site e não um programa.
