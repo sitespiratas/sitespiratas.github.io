@@ -85,10 +85,10 @@ Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. 
 
 ## Livros e Ebooks
 >duvido q alguem q usa isso leia livros mas vai que ne
--[Libgen](https://whereislibgen.vercel.app/go) - Site incrível com todo o tipo de livro e artigo científico, organizados e em várias línguas.
--[zLibrary](https://br1lib.org/) - Outro lugar pra baixar ebooks mas com uma interface mais bonitinha.
--[Lelivros](https://lelivros.love/) - Site brasileiro que dá pra ler e baixar PDF direto do site. Péssimo pra baixar pra Kindle, use os outros acima.
--[calibre](https://calibre-ebook.com/) - Programa de manuseio de ebooks no computador, com funções legais como conversão de formatos e remoção de proteção de direitos autorais. Não dá pra baixar nada por ele, você tem que baixar nos dois primeiros sites ali em cima e colocar nele.
+- [Libgen](https://whereislibgen.vercel.app/go) - Site incrível com todo o tipo de livro e artigo científico, organizados e em várias línguas.
+- [zLibrary](https://br1lib.org/) - Outro lugar pra baixar ebooks mas com uma interface mais bonitinha.
+- [Lelivros](https://lelivros.love/) - Site brasileiro que dá pra ler e baixar PDF direto do site. Péssimo pra baixar pra Kindle, use os outros acima.
+- [calibre](https://calibre-ebook.com/) - Programa de manuseio de ebooks no computador, com funções legais como conversão de formatos e remoção de proteção de direitos autorais. Não dá pra baixar nada por ele, você tem que baixar nos dois primeiros sites ali em cima e colocar nele.
 
 ## De onde eu tirei tudo isso
 >fontes de 80% besteirada, em inglês.
