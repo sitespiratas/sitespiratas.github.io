@@ -19,6 +19,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [Séries e Filmes](#séries-e-filmes)
 - [Jogos](#jogos)
 - [ROMS](#roms)
+- [Livros e Ebooks](#livros-e-ebooks)
 - [De onde eu tirei tudo isso](#de-onde-eu-tirei-tudo-isso)
 
 ## Ferramentas
@@ -54,6 +55,7 @@ Recomendo fortemente dar uma olhada no jDownloader2 e no qBitTorrent que eu deix
 - [BRanimes](https://www.branimes.com) - Outro site de anime
 - [AnimesFalse](https://animesfalse.net/) - mais anime eeeeeba
 - [Vizer](https://vizer.tv/) - Bom site para séries e filmes.
+- [@DrivedeAnimes](https://docs.google.com/spreadsheets/d/1feF3KZbFsFu4iS6aSFSfe3ky95jTBEugCmYgssyPwbY/edit#gid=0&fvid=1492263860) - Planilha de um perfil no twitter com vários links do Google Drive pros animes mais famosos. Obrigado franks
 - [StreamCR](https://movies.org/) - Site americano com vários filmes e séries em inglês. Não possui legendas.
 
 ## Jogos
@@ -80,6 +82,13 @@ Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. 
 - [Vimm's Lair](https://vimm.net/?p=vault) - Outro site de ROMS, alternativa ao The Eye mas é bem lerdo.
 - [DownloadRoms](https://www.downloadroms.io/) - Mais um site de ROMS, usei algumas vezes e tinha algumas páginas com conteúdo duvidoso mas não peguei vírus.
 - [Roms Antigas](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Site com um monte de roms de consoles antigos.
+
+## Livros e Ebooks
+>duvido q alguem q usa isso leia livros mas vai que ne
+-[Libgen](https://whereislibgen.vercel.app/go) - Site incrível com todo o tipo de livro e artigo científico, organizados e em várias línguas.
+-[zLibrary](https://br1lib.org/) - Outro lugar pra baixar ebooks mas com uma interface mais bonitinha.
+-[Lelivros](https://lelivros.love/) - Site brasileiro que dá pra ler e baixar PDF direto do site. Péssimo pra baixar pra Kindle, use os outros acima.
+-[calibre](https://calibre-ebook.com/) - Programa de manuseio de ebooks no computador, com funções legais como conversão de formatos e remoção de proteção de direitos autorais. Não dá pra baixar nada por ele, você tem que baixar nos dois primeiros sites ali em cima e colocar nele.
 
 ## De onde eu tirei tudo isso
 >fontes de 80% besteirada, em inglês.
