@@ -83,6 +83,7 @@ Aqui, uma print com uma página inteira de torrents falsos e claramente vírus. 
 - [Vimm's Lair](https://vimm.net/?p=vault) - Outro site de ROMS, alternativa ao The Eye mas é bem lerdo.
 - [DownloadRoms](https://www.downloadroms.io/) - Mais um site de ROMS, usei algumas vezes e tinha algumas páginas com conteúdo duvidoso mas não peguei vírus.
 - [Roms Antigas](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Site com um monte de roms de consoles antigos.
+- [RomsPortugues](https://romsportugues.tk/) - Site de roms traduzidas
 
 ## Livros e Ebooks
 >duvido q alguem q usa isso leia livros mas vai que ne
